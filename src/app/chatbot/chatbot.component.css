@@ -1,0 +1,14 @@
+.userMessage {
+  margin-left: 100px;
+  text-align: right;
+}
+
+.botMessage {
+  margin-right: 100px;
+}
+
+.circle:before {
+  content: ' \25CF';
+  font-size: 25px;
+  color: green;
+}
